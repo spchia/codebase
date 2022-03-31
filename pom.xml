@@ -15,7 +15,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring-boot.version>2.2.3.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <mysql.version>8.0.18</mysql.version>
         <flywaydb.version>6.1.4</flywaydb.version>
         <tomcat.version>9.0.30</tomcat.version>
